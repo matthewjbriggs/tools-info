@@ -1,0 +1,6 @@
+# Animata is an open source real-time animation software
+# designed to create animations
+# interactive background projections for concerts
+# theatre and dance performances.
+
+# http://animata.kibu.hu/index.html
