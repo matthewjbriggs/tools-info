@@ -1,0 +1,4 @@
+aka.linsten is an object for Cycling 74 Max/Msp, that allows for max to have speech recognition. It works fairly well as long as you use a microphone and have a method to control when it is checking for voice commands and when it is disengaged.
+
+http://www.iamas.ac.jp/~aka/max/#aka_listen
+
